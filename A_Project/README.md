@@ -1,0 +1,2 @@
+libalut-dev
+libopenal-dev
