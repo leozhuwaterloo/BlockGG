@@ -1,5 +1,5 @@
-# CS488 Fall 2015 Project Code
-
+# CS488 Spring 2019 Project Code
+# Please refer to README.md in `A_Project` for final project specific instructions
 ---
 
 ## Dependencies
