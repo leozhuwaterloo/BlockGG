@@ -13,6 +13,7 @@ premake4 gmake
 make
 ```
 from root
+(Note that this steps has to be taken since code in `shared` is modified)
 
 
 then run
